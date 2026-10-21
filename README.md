@@ -1,12 +1,4 @@
-<h1 align="center">Hi👋, I'm Rao-code</h1>
-<!-- <img src="certificate/banner.gif" width="100%"> -->
-<!-- <img src = "certificate/image.png" width = "100%"> -->
-<p align="center" style="display:flex; gap: 10px;">
-  <img src="certificate/download1.png" width="33%">
-  <img src="certificate/download2.png" width="33%">
-  <img src="certificate/download3.png" width="33%"><br>
-  <img src="certificate/download4.png" width="33%">
-</p>
+
 
 <!-- ========================================================= -->
 
@@ -23,6 +15,16 @@
 <!--                    PROFILE INTRO                          -->
 
 <!-- ========================================================= -->
+
+<h1 align="center">Hi👋, I'm Rao-code</h1>
+<!-- <img src="certificate/banner.gif" width="100%"> -->
+<!-- <img src = "certificate/image.png" width = "100%"> -->
+<p align="center" style="display:flex; gap: 10px;">
+  <img src="certificate/download1.png" width="33%">
+  <img src="certificate/download2.png" width="33%">
+  <img src="certificate/download3.png" width="33%"><br>
+  <img src="certificate/download4.png" width="33%">
+</p>
 
 <table align="center" width="96%">
 <tr>
