@@ -1,5 +1,3 @@
-
-
 <!-- ========================================================= -->
 
 <!--                     PREMIUM HERO                          -->
@@ -7,7 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/5a8843b7-d6bd-4bfe-9855-95bc08357c22" />
+  <img width="1664" height="936" alt="Image" src="certificate/1 (6).svg" />
 </p>
 
 <!-- ========================================================= -->
@@ -16,7 +14,7 @@
 
 <!-- ========================================================= -->
 
-<h1 align="center">Hi👋, I'm Rao-code</h1>
+<h1 align="center">Hi👋, I'm Rao-Coder</h1>
 <!-- <img src="certificate/banner.gif" width="100%"> -->
 <!-- <img src = "certificate/image.png" width = "100%"> -->
 <p align="center" style="display:flex; gap: 10px;">
@@ -78,8 +76,7 @@ for real-world production environments.
 
 <td width="42%" align="center">
 
-<img width="960" height="960" alt="Image" src="https://github.com/user-attachments/assets/56a9d4d3-a1d2-4028-bce9-f4742f82c031" />
-
+<img width="960" height="960" alt="Image" src="/certificate/1 (1).webp />
 
 </td>
 
@@ -93,7 +90,7 @@ for real-world production environments.
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/45e88119-2d01-4e84-895c-580287d27a03" /></p>
+  <img width="1664" height="936" alt="Image" src="/certificate/1 (1).svg" /></p>
 
 </td>
 
@@ -107,9 +104,8 @@ for real-world production environments.
 
 <!-- ========================================================= -->
 
-
 <p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/6f432534-5f4f-486a-8213-b4aeed78e62f" />
+  <img width="1664" height="936" alt="Image" src="/certificate/1 (2).svg" />
 </p>
 
 <!-- ========================================================= -->
@@ -119,7 +115,7 @@ for real-world production environments.
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/44af0da5-f5b2-4063-bd51-6d54134522f5" />
+  <img width="1664" height="936" alt="Image" src="/certificate/1 (3).svg" />
 </p>
 
 <!-- ========================================================= -->
@@ -129,7 +125,7 @@ for real-world production environments.
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/f88ca2c9-fd65-4b14-be02-378f5c8bc52e" />
+  <img width="1664" height="936" alt="Image" src="/certificate/1 (4).svg" />
 </p>
 
 <!-- ========================================================= -->
@@ -139,10 +135,9 @@ for real-world production environments.
 <!-- ========================================================= -->
 <p align="center">
 
-<img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/902d2c1c-738a-4f4b-a090-c47830a774f8" />
+<img width="1664" height="936" alt="Image" src="/certificate/1 (5).svg" />
 
 </p>
-
 
 - 🎓 I am currently pursuing my **PhD in Artificial Intelligence**.
 - 🌱 I am currently learning **LeetCode and doing research in the domain of AI & ML**.
