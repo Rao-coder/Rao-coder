@@ -76,7 +76,7 @@ for real-world production environments.
 
 <td width="42%" align="center">
 
-<img width="960" height="960" alt="Image" src="/certificate/1 (1).webp />
+<img width="960" height="960" alt="Image" src="/certificate/1 (1).webp" />
 
 </td>
 
