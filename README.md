@@ -90,7 +90,7 @@ for real-world production environments.
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="1664" height="936" alt="Image" src="/certificate/1 (1).svg" /></p>
+  <img width="1664" height="936" alt="Image" src="certificate/1 (1).svg" /></p>
 
 </td>
 
