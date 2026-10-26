@@ -5,7 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="1664" height="936" alt="Image" src="certificate/1 (6).svg" />
+  <img width="1664" height="936" alt="Image" src="certificate/1 (7).svg" />
 </p>
 
 <!-- ========================================================= -->
